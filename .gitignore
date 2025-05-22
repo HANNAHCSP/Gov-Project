@@ -1,0 +1,61 @@
+# ─── FLUTTER & DART ───────────────────────────────────────────────
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+pubspec.lock
+
+# ─── PUB ──────────────────────────────────────────────────────────
+.pub-cache/
+.dart_server/
+
+# ─── IDE FILES ────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.iml
+
+# ─── OS FILES ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── ANDROID ──────────────────────────────────────────────────────
+android/.gradle/
+android/local.properties
+android/.idea
+android/captures/
+android/app/build/
+
+# Do NOT ignore the following (they are needed and will be included):
+# ✅ android/app/google-services.json
+# ✅ android/app/build.gradle.kts
+
+# ─── IOS ──────────────────────────────────────────────────────────
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace
+ios/build/
+ios/.dart_tool/
+
+# ─── LINUX ────────────────────────────────────────────────────────
+linux/flutter/ephemeral/
+linux/build/
+
+# ─── WINDOWS ──────────────────────────────────────────────────────
+windows/flutter/ephemeral/
+windows/build/
+
+# ─── WEB ──────────────────────────────────────────────────────────
+web/.dart_tool/
+web/build/
+
+# ─── FIREBASE ─────────────────────────────────────────────────────
+# We are explicitly INCLUDING google-services.json
+# So DO NOT exclude it here.
+
+# ─── CRASHLYTICS / DEBUG ─────────────────────────────────────────
+*.symbols
+crashlytics-build.properties

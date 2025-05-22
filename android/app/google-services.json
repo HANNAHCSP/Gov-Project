@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "779172604933",
+    "firebase_url": "https://mobile-project-f3d15-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobile-project-f3d15",
+    "storage_bucket": "mobile-project-f3d15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779172604933:android:e65308ad280a43972c006c",
+        "android_client_info": {
+          "package_name": "com.example.bgam3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6s-KxpFgeJGLfKUZvjCLn40K9Fn1JMNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779172604933:android:4aef31c92a7228fc2c006c",
+        "android_client_info": {
+          "package_name": "com.example.govapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6s-KxpFgeJGLfKUZvjCLn40K9Fn1JMNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
